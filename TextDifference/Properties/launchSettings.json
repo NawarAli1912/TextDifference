@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextDifference": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\nrali\\Desktop\\filea.txt\r\nC:\\Users\\nrali\\Desktop\\fileb.txt"
+    }
+  }
+}
